@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../github/ErgoDox-master/ErgoDOX pcb/gerber;../../github/ErgoDox-master/ErgoDOX pcb
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=component
+LibName30=lets_split

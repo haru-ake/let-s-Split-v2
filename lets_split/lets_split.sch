@@ -28,8 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:component
-LIBS:lets_split-cache
+LIBS:lets_split
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
