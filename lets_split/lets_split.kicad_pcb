@@ -199,7 +199,7 @@
     (add_net xtradata)
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAEA31) (tstamp 57D4567D)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAEA31) (tstamp 57D4567D)
     (at 131.25 110.5 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -219,7 +219,7 @@
       (net 8 row3))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAEA1B) (tstamp 57D45635)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAEA1B) (tstamp 57D45635)
     (at 74.1 109.4 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -239,7 +239,7 @@
       (net 8 row3))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAEA0C) (tstamp 57D4564D)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAEA0C) (tstamp 57D4564D)
     (at 93.15 109.1 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -259,7 +259,7 @@
       (net 8 row3))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE9FB) (tstamp 57D45665)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE9FB) (tstamp 57D45665)
     (at 112.15 109.2 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -279,7 +279,7 @@
       (net 8 row3))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE9D5) (tstamp 57D45695)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE9D5) (tstamp 57D45695)
     (at 115.25 94.5)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -299,7 +299,7 @@
       (net 8 row3))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE9B2) (tstamp 57D45689)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE9B2) (tstamp 57D45689)
     (at 135.6 75.35)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -319,7 +319,7 @@
       (net 4 row1))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE999) (tstamp 57D4568F)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE999) (tstamp 57D4568F)
     (at 137 94.5)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -339,7 +339,7 @@
       (net 6 row2))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE96C) (tstamp 57D4565F)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE96C) (tstamp 57D4565F)
     (at 112.3 90.4 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -359,7 +359,7 @@
       (net 6 row2))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE8D5) (tstamp 57D45647)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE8D5) (tstamp 57D45647)
     (at 93.25 90.4 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -379,7 +379,7 @@
       (net 6 row2))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE8C5) (tstamp 57D4562F)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE8C5) (tstamp 57D4562F)
     (at 74.05 89.95 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -399,7 +399,7 @@
       (net 6 row2))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE8AD) (tstamp 57D45611)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE8AD) (tstamp 57D45611)
     (at 50.05 75.4 180)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -419,7 +419,7 @@
       (net 4 row1))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE892) (tstamp 57D4561D)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE892) (tstamp 57D4561D)
     (at 55 110.25 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -439,7 +439,7 @@
       (net 8 row3))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE872) (tstamp 57D45629)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE872) (tstamp 57D45629)
     (at 59.7 75.45)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -459,7 +459,7 @@
       (net 4 row1))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE85C) (tstamp 57D45641)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE85C) (tstamp 57D45641)
     (at 93.05 71.15 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -479,7 +479,7 @@
       (net 4 row1))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE829) (tstamp 57D45659)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE829) (tstamp 57D45659)
     (at 112.25 71.3 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -499,7 +499,7 @@
       (net 4 row1))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE811) (tstamp 57D45671)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE811) (tstamp 57D45671)
     (at 131.3 71.55 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -519,7 +519,7 @@
       (net 4 row1))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE7DA) (tstamp 57D45683)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE7DA) (tstamp 57D45683)
     (at 135.9 56.25)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -539,7 +539,7 @@
       (net 2 row0))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE7C6) (tstamp 57D4566B)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE7C6) (tstamp 57D4566B)
     (at 116.75 56.3)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -559,7 +559,7 @@
       (net 2 row0))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE79E) (tstamp 57D45653)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE79E) (tstamp 57D45653)
     (at 112.2 52.25 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -579,7 +579,7 @@
       (net 2 row0))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE76C) (tstamp 57D4563B)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE76C) (tstamp 57D4563B)
     (at 93.25 52.25 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -599,7 +599,7 @@
       (net 2 row0))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE74F) (tstamp 57D45623)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE74F) (tstamp 57D45623)
     (at 88.55 56.35 180)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -619,7 +619,7 @@
       (net 2 row0))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE735) (tstamp 57D4560B)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE735) (tstamp 57D4560B)
     (at 50.95 56.35 180)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -639,7 +639,7 @@
       (net 2 row0))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE6F6) (tstamp 57D45617)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 57FAE6F6) (tstamp 57D45617)
     (at 55 88.75 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -2461,7 +2461,7 @@
       (xy -1.293395 -15.153217) (xy -1.287192 -15.18032) (xy -1.278049 -15.168563)) (layer F.SilkS) (width 0.01))
   )
 
-  (module Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 552FFCCE) (tstamp 57D45677)
+  (module Diodes_THT:Diode_DO-41_SOD81_Horizontal_RM10 (layer F.Cu) (tedit 552FFCCE) (tstamp 57D45677)
     (at 131.25 88 90)
     (descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
     (tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
@@ -2478,7 +2478,7 @@
       (net 6 row2))
   )
 
-  (module footprint:4pin35mmAudio (layer F.Cu) (tedit 4FD999CA) (tstamp 57D456AB)
+  (module local:4pin35mmAudio (layer F.Cu) (tedit 4FD999CA) (tstamp 57D456AB)
     (at 131.65 32.85 270)
     (path /57D49FBD)
     (fp_text reference J2 (at 1.27 0 360) (layer F.SilkS) hide
@@ -2526,7 +2526,7 @@
     (pad HOLE np_thru_hole circle (at 7.8994 0 270) (size 0.9906 0.9906) (drill 0.9906) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module footprint:RESISTOR (layer B.Cu) (tedit 57D45EBA) (tstamp 57D456BB)
+  (module local:RESISTOR (layer B.Cu) (tedit 57D45EBA) (tstamp 57D456BB)
     (at 96.4 56.3 180)
     (path /57D527EC)
     (fp_text reference R1 (at 0 0 180) (layer B.SilkS) hide
@@ -2556,7 +2556,7 @@
       (net 35 "Net-(R1-Pad2)"))
   )
 
-  (module footprint:RESISTOR (layer B.Cu) (tedit 4E0F7A99) (tstamp 57D456C1)
+  (module local:RESISTOR (layer B.Cu) (tedit 4E0F7A99) (tstamp 57D456C1)
     (at 109.05 56.3)
     (path /57D4D4E2)
     (fp_text reference R2 (at 0 0) (layer B.SilkS) hide
@@ -2586,7 +2586,7 @@
       (net 31 VCC))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE629) (tstamp 57D456CC)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE629) (tstamp 57D456CC)
     (at 45.5 46.85)
     (descr MXALPS)
     (tags MXALPS)
@@ -2621,7 +2621,7 @@
       (net 1 "Net-(D1-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5C7) (tstamp 57D456D7)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5C7) (tstamp 57D456D7)
     (at 45.55 65.95)
     (descr MXALPS)
     (tags MXALPS)
@@ -2656,7 +2656,7 @@
       (net 3 "Net-(D2-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5BD) (tstamp 57D456E2)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5BD) (tstamp 57D456E2)
     (at 45.5 85)
     (descr MXALPS)
     (tags MXALPS)
@@ -2691,7 +2691,7 @@
       (net 5 "Net-(D3-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE577) (tstamp 57D456ED)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE577) (tstamp 57D456ED)
     (at 45.5 104.15)
     (descr MXALPS)
     (tags MXALPS)
@@ -2726,7 +2726,7 @@
       (net 7 "Net-(D4-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE623) (tstamp 57D456F8)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE623) (tstamp 57D456F8)
     (at 64.55 46.85)
     (descr MXALPS)
     (tags MXALPS)
@@ -2761,7 +2761,7 @@
       (net 9 "Net-(D5-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5CD) (tstamp 57D45703)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5CD) (tstamp 57D45703)
     (at 64.55 65.9)
     (descr MXALPS)
     (tags MXALPS)
@@ -2796,7 +2796,7 @@
       (net 10 "Net-(D6-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5B6) (tstamp 57D4570E)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5B6) (tstamp 57D4570E)
     (at 64.55 84.95)
     (descr MXALPS)
     (tags MXALPS)
@@ -2831,7 +2831,7 @@
       (net 11 "Net-(D7-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE570) (tstamp 57D45719)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE570) (tstamp 57D45719)
     (at 64.55 104)
     (descr MXALPS)
     (tags MXALPS)
@@ -2866,7 +2866,7 @@
       (net 12 "Net-(D8-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE613) (tstamp 57D45724)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE613) (tstamp 57D45724)
     (at 83.6 46.85)
     (descr MXALPS)
     (tags MXALPS)
@@ -2901,7 +2901,7 @@
       (net 13 "Net-(D9-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5D3) (tstamp 57D4572F)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5D3) (tstamp 57D4572F)
     (at 83.6 65.9)
     (descr MXALPS)
     (tags MXALPS)
@@ -2936,7 +2936,7 @@
       (net 14 "Net-(D10-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5AE) (tstamp 57D4573A)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5AE) (tstamp 57D4573A)
     (at 83.6 84.95)
     (descr MXALPS)
     (tags MXALPS)
@@ -2971,7 +2971,7 @@
       (net 15 "Net-(D11-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE567) (tstamp 57D45745)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE567) (tstamp 57D45745)
     (at 83.6 104)
     (descr MXALPS)
     (tags MXALPS)
@@ -3006,7 +3006,7 @@
       (net 16 "Net-(D12-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE60B) (tstamp 57D45750)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE60B) (tstamp 57D45750)
     (at 102.65 46.85)
     (descr MXALPS)
     (tags MXALPS)
@@ -3041,7 +3041,7 @@
       (net 17 "Net-(D13-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5DE) (tstamp 57D4575B)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5DE) (tstamp 57D4575B)
     (at 102.65 65.9)
     (descr MXALPS)
     (tags MXALPS)
@@ -3076,7 +3076,7 @@
       (net 18 "Net-(D14-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5A8) (tstamp 57D45766)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5A8) (tstamp 57D45766)
     (at 102.65 84.95)
     (descr MXALPS)
     (tags MXALPS)
@@ -3111,7 +3111,7 @@
       (net 19 "Net-(D15-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE557) (tstamp 57D45771)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE557) (tstamp 57D45771)
     (at 102.65 104)
     (descr MXALPS)
     (tags MXALPS)
@@ -3146,7 +3146,7 @@
       (net 20 "Net-(D16-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE605) (tstamp 57D4577C)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE605) (tstamp 57D4577C)
     (at 121.7 46.85)
     (descr MXALPS)
     (tags MXALPS)
@@ -3181,7 +3181,7 @@
       (net 21 "Net-(D17-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57D452A6) (tstamp 57D45787)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57D452A6) (tstamp 57D45787)
     (at 121.7 65.9)
     (descr MXALPS)
     (tags MXALPS)
@@ -3216,7 +3216,7 @@
       (net 22 "Net-(D18-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5A0) (tstamp 57D45792)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5A0) (tstamp 57D45792)
     (at 121.7 84.95)
     (descr MXALPS)
     (tags MXALPS)
@@ -3251,7 +3251,7 @@
       (net 23 "Net-(D19-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE54E) (tstamp 57D4579D)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE54E) (tstamp 57D4579D)
     (at 121.7 104)
     (descr MXALPS)
     (tags MXALPS)
@@ -3286,7 +3286,7 @@
       (net 24 "Net-(D20-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5FF) (tstamp 57D457A8)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5FF) (tstamp 57D457A8)
     (at 140.75 46.85)
     (descr MXALPS)
     (tags MXALPS)
@@ -3321,7 +3321,7 @@
       (net 25 "Net-(D21-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5E5) (tstamp 57D457B3)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE5E5) (tstamp 57D457B3)
     (at 140.75 65.9)
     (descr MXALPS)
     (tags MXALPS)
@@ -3356,7 +3356,7 @@
       (net 26 "Net-(D22-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE59A) (tstamp 57D457BE)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE59A) (tstamp 57D457BE)
     (at 140.75 84.95)
     (descr MXALPS)
     (tags MXALPS)
@@ -3391,7 +3391,7 @@
       (net 27 "Net-(D23-Pad2)"))
   )
 
-  (module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE544) (tstamp 57D457C9)
+  (module local:MXALPS_FLIP (layer F.Cu) (tedit 57FAE544) (tstamp 57D457C9)
     (at 140.75 104)
     (descr MXALPS)
     (tags MXALPS)
@@ -3426,7 +3426,7 @@
       (net 28 "Net-(D24-Pad2)"))
   )
 
-  (module footprint:TEENSY_2.0 (layer B.Cu) (tedit 57D47B8C) (tstamp 57D457E5)
+  (module local:TEENSY_2.0 (layer B.Cu) (tedit 57D47B8C) (tstamp 57D457E5)
     (at 64.55 49.75 270)
     (path /57D48AE5)
     (fp_text reference U1 (at 0 0 270) (layer B.SilkS) hide
@@ -3513,7 +3513,7 @@
       (net 33 xtradata))
   )
 
-  (module prettylib:jumper (layer F.Cu) (tedit 57D45E1B) (tstamp 57D46425)
+  (module local:jumper (layer F.Cu) (tedit 57D45E1B) (tstamp 57D46425)
     (at 139.4 51.1 90)
     (path /57D4A05A)
     (fp_text reference J1 (at 0 0.5 90) (layer F.SilkS)
@@ -3542,7 +3542,7 @@
       (net 29 GND))
   )
 
-  (module prettylib:jumper (layer F.Cu) (tedit 57D45E1B) (tstamp 57D46432)
+  (module local:jumper (layer F.Cu) (tedit 57D45E1B) (tstamp 57D46432)
     (at 127.65 51 90)
     (path /57D4A13F)
     (fp_text reference J3 (at 0 0.5 90) (layer F.SilkS)
@@ -3571,7 +3571,7 @@
       (net 29 GND))
   )
 
-  (module prettylib:JUMPER_SMD_2DUB (layer F.Cu) (tedit 57D45DBA) (tstamp 57D46446)
+  (module local:JUMPER_SMD_2DUB (layer F.Cu) (tedit 57D45DBA) (tstamp 57D46446)
     (at 122 58.25)
     (path /57D52188)
     (fp_text reference W1 (at 0 -1.2446) (layer F.SilkS)
@@ -3610,7 +3610,7 @@
       (net 33 xtradata))
   )
 
-  (module prettylib:HOLE (layer F.Cu) (tedit 57FAE27E) (tstamp 57D46DA1)
+  (module local:HOLE (layer F.Cu) (tedit 57FAE27E) (tstamp 57D46DA1)
     (at 56.65 95.2)
     (path /57D4E136)
     (fp_text reference U2 (at -1.4 -4.39) (layer F.SilkS)
@@ -3623,7 +3623,7 @@
     (pad "" thru_hole circle (at -1.65 -0.7) (size 8 8) (drill 8) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module prettylib:HOLE (layer F.Cu) (tedit 57FAE19E) (tstamp 57D46DA7)
+  (module local:HOLE (layer F.Cu) (tedit 57FAE19E) (tstamp 57D46DA7)
     (at 133 95.25)
     (path /57D4E261)
     (fp_text reference U3 (at -1.4 -4.39) (layer F.SilkS)
@@ -3636,7 +3636,7 @@
     (pad "" thru_hole circle (at -1.65 -0.7) (size 8 8) (drill 8) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module prettylib:HOLE (layer F.Cu) (tedit 57FAE3A7) (tstamp 57D46DAD)
+  (module local:HOLE (layer F.Cu) (tedit 57FAE3A7) (tstamp 57D46DAD)
     (at 132.85 57.15)
     (path /57D4E2F6)
     (fp_text reference U4 (at -1.4 -4.39) (layer F.SilkS)
@@ -3649,7 +3649,7 @@
     (pad "" thru_hole circle (at -1.65 -0.7) (size 8 8) (drill 8) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module prettylib:HOLE (layer F.Cu) (tedit 57FAE36C) (tstamp 57D46DB3)
+  (module local:HOLE (layer F.Cu) (tedit 57FAE36C) (tstamp 57D46DB3)
     (at 53.5 38)
     (path /57D4E38F)
     (fp_text reference U5 (at -1.4 -4.39) (layer F.SilkS)
