@@ -3256,7 +3256,7 @@
     (descr MXALPS)
     (tags MXALPS)
     (path /57D45C97)
-    (fp_text reference "" (at 0 3.048) (layer B.SilkS)
+    (fp_text reference "SW20" (at 0 3.048) (layer B.SilkS) hide
       (effects (font (thickness 0.3048)) (justify mirror))
     )
     (fp_text value SW_PUSH (at -3.5 9) (layer B.SilkS) hide
@@ -3396,7 +3396,7 @@
     (descr MXALPS)
     (tags MXALPS)
     (path /57D45CA3)
-    (fp_text reference "" (at 0 3.048) (layer B.SilkS)
+    (fp_text reference "SW24" (at 0 3.048) (layer B.SilkS) hide
       (effects (font (thickness 0.3048)) (justify mirror))
     )
     (fp_text value SW_PUSH (at -3.5 9) (layer B.SilkS) hide
