@@ -1,4 +1,4 @@
-(module footprint:4pin35mmAudio (layer F.Cu) (tedit 4FD999CA)
+(module 4pin35mmAudio (layer F.Cu) (tedit 4FD999CA)
   (fp_text reference J2 (at 1.27 0 90) (layer F.SilkS) hide
     (effects (font (size 1.524 1.778) (thickness 0.3048)))
   )

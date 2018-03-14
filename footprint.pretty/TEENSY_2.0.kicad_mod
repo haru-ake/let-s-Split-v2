@@ -1,4 +1,4 @@
-(module footprint:TEENSY_2.0 (layer F.Cu) (tedit 57D47B8C)
+(module TEENSY_2.0 (layer F.Cu) (tedit 57D47B8C)
   (fp_text reference U1 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 3.048 2.54) (thickness 0.4572)))
   )

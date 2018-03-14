@@ -1,4 +1,4 @@
-(module flipalps:MXALPS_FLIP (layer F.Cu) (tedit 57FAE544)
+(module MXALPS_FLIP (layer F.Cu) (tedit 57FAE544)
   (descr MXALPS)
   (tags MXALPS)
   (fp_text reference "" (at 0 3.048) (layer B.SilkS)

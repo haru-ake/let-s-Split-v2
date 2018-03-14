@@ -1,4 +1,4 @@
-(module prettylib:jumper (layer F.Cu) (tedit 57D45E1B)
+(module jumper (layer F.Cu) (tedit 57D45E1B)
   (fp_text reference J3 (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,4 +1,4 @@
-(module footprint:RESISTOR (layer F.Cu) (tedit 4E0F7A99)
+(module RESISTOR (layer F.Cu) (tedit 4E0F7A99)
   (fp_text reference R2 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.016) (thickness 0.2032)))
   )
